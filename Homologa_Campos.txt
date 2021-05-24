@@ -1,0 +1,29 @@
+evaluacion
+campo1,campo2,campo3,campo4,campo5,campo6,campo7,campo8,campo9,campo10,campo11,campo12,campo13,campo14,campo15,campo16,campo17,campo18,campo19,campo20
+campo1:Marca temporal
+campo2:"Nombre de usuario"
+campo3:"Equipo que vas a evaluar:"
+campo4:"IntroducciÃ³n: El equipo responde adecuadamente Â¿QuiÃ©nes son y por quÃ© estÃ¡n aquÃ­?",
+campo5:"Equipo: El equipo responde adecuadamente Â¿QuiÃ©nes estÃ¡n detrÃ¡s de la idea y cuÃ¡l es su funciÃ³n?",
+campo6:"Problema: El equipo responde adecuadamente Â¿QuÃ© problema resolverÃ¡?, Â¿es realmente un problema?",
+campo7:"Ventajas: El equipo responde adecuadamente Â¿Por quÃ© su soluciÃ³n es especial?, Â¿quÃ© la hace distinta de otras?",
+campo8:"SoluciÃ³n: El equipo responde adecuadamente Â¿CÃ³mo piensa resolver el problema?",
+campo9:"Producto: El equipo responde adecuadamente Â¿CÃ³mo funciona el producto o servicio? Muestra algunos ejemplos.",
+campo10:"TracciÃ³n: El equipo responde adecuadamente si cuenta con clientes que demuestran potencial.",
+campo11:"Mercado: El equipo responde conoce, o por lo menos intentar predecir, el tamaÃ±o del mercado que impactarÃ¡.",
+campo12:"Competencia: El equipo responde adecuadamente Â¿CuÃ¡les son las soluciones alternativas al problema que plantea?",
+campo13:"Modelo de negocio: El equipo responde adecuadamente Â¿CÃ³mo harÃ¡ dinero? ",
+campo14:"InversiÃ³n: El equipo responde adecuadamente Â¿CuÃ¡l es su presupuesto y cuÃ¡nto espera ganar?",
+campo15:"Contacto: El equipo deja los datos al cliente y muestra cÃ³mo pueden contactarle.",
+campo16:"ExposiciÃ³n: Â¿QuÃ© tan coordinados estaban los expositores?",
+campo17:"ExposiciÃ³n: Â¿Los expositores se expresaron con claridad y se hicieron entender?",
+campo18:"ExposiciÃ³n: Las diapositivas son claras y coherentes y apoyaron adecuadamente la exposiciÃ³n.",
+campo19:"Suponiendo que eres inversionista, Â¿EstarÃ­as dispuesto a invertir dinero en este equipo? (esta pregunta no se pondera en la nota)",
+campo20:"Observaciones para el equipo, estas observaciones las debe considerar el equipo para mejorar la siguiente presentaciÃ³n."
+
+asistencia
+campo1,campo2,campo3,campo4
+campo1:Marca temporal,
+campo2:"Nombre de usuario",
+campo3:"Equipo al que perteneces:",
+campo4:"Equipo que va a exponer:"
