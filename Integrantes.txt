@@ -1,0 +1,9 @@
+
+INTEGRANTES:
+Nombre Completo – Documento de Identificación
+1. Daniel Múnera Arango            1.018.453.614
+2. Cristian Camilo Londoño         1.128.270.374
+3. Juan Mauricio Herrera             1.128.453.482
+4. Juan David Ramirez Sanchez   1.128.430.332
+
+REPO EN GITHUB: https://github.com/crlondono/AGD_TrabajoSparkQL
